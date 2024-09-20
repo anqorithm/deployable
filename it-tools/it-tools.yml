@@ -1,6 +1,6 @@
 services:
   it-tools:
-    image: corentinth/it-tools:latest # https://github.com/ClementTsai/it-tools
+    image: corentinth/it-tools:latest # https://github.com/CorentinTh/it-tools
     container_name: it-tools
     restart: unless-stopped
     ports:
