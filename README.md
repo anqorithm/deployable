@@ -7,15 +7,19 @@ Below is an overview of the available services:
 ## Available Services
 | Service         | Description                                                                                       | GitHub Link                                                                                   |
 |-----------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Home Assistant  | An open-source home automation platform.                                                          | [GitHub](https://github.com/home-assistant/core)                                              |
-| Typesense       | A fast, typo-tolerant search engine for building delightful search experiences.                   | [GitHub](https://github.com/typesense/typesense)                                              |
-| n8n             | A free and open node-based Workflow Automation Tool.                                              | [GitHub](https://github.com/n8n-io/n8n)                                                       |
-| Custom LLM      | Custom Large Language Model deployment using ollama and open-web-ui.                              | [GitHub (ollama)](https://github.com/ollama/ollama) [GitHub (open-webui)](https://github.com/open-webui/open-webui) |
-| MeiliSearch     | An easy-to-use, blazingly fast, and hyper-relevant search engine.                                 | [GitHub](https://github.com/meilisearch/MeiliSearch)                                          |
+| Chatwoot        | Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. | [GitHub](https://github.com/chatwoot/chatwoot) |
 | Cloudflared     | A lightweight tunneling daemon for Cloudflare services.                                           | [GitHub](https://github.com/cloudflare/cloudflared)                                           |
-| IT Tools        | A set of tools for IT professionals.                                                              | [GitHub](https://github.com/cs4alhaider/it-tools)                                             |
+| Custom LLM      | Custom Large Language Model deployment using ollama and open-web-ui.                              | [GitHub (ollama)](https://github.com/ollama/ollama) [GitHub (open-webui)](https://github.com/open-webui/open-webui) |
+| Home Assistant  | An open-source home automation platform.                                                          | [GitHub](https://github.com/home-assistant/core)                                              |
+| IT Tools        | A set of tools for IT professionals.                                                              | [GitHub](https://github.com/CorentinTh/it-tools)                                             |
 | Keycloak        | Open Source Identity and Access Management for modern Applications and Services.                  | [GitHub](https://github.com/keycloak/keycloak)                                                |
+| MeiliSearch     | An easy-to-use, blazingly fast, and hyper-relevant search engine.                                 | [GitHub](https://github.com/meilisearch/MeiliSearch)                                          |
+| n8n             | A free and open node-based Workflow Automation Tool.                                              | [GitHub](https://github.com/n8n-io/n8n)                                                       |
+| Portainer       | Making Docker and Kubernetes management easy.                                                     | [GitHub](https://github.com/portainer/portainer)                                              |
+| Stirling PDF    | Locally hosted web application that allows you to perform various operations on PDF files.        | [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)                                      |
 | Strapi          | An open-source headless CMS.                                                                      | [GitHub](https://github.com/strapi/strapi)                                                    |
+| Supabase        | An open source Firebase alternative.                                                              | [GitHub](https://github.com/supabase/supabase)                                                |
+| Typesense       | A fast, typo-tolerant search engine for building delightful search experiences.                   | [GitHub](https://github.com/typesense/typesense)                                              |
 
 ## Prerequisites
 
@@ -74,4 +78,3 @@ For any questions or support, please open an issue.
 ---
 
 Happy deploying!
-
