@@ -86,3 +86,4 @@ volumes:
 networks:
   keycloak-network:
     name: ${KEYCLOAK_NETWORK_NAME:-keycloak-network}
+    
